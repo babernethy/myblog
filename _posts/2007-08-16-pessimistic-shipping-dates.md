@@ -7,7 +7,7 @@ et_enqueued_post_fonts:
 
 I'm all for realistic expectations for shipping dates from online sellers. But this order recently from a popular online bookstore really got me wondering.
 
-[![amazon_shipment](/image.axd?picture=WindowsLiveWriter/PessimisticShippingDates_69CE/amazon_shipment_thumb_1.png)](/image.axd?picture=WindowsLiveWriter/PessimisticShippingDates_69CE/amazon_shipment_1.png)
+![Image](/assets/images/amazon_shipment_1.png "Amazon Shipment")
 
 Shipped on August 13, in Allen Park, Michigan (159 miles away) and departing, but it will take nearly two months to get here? Is this the Pony Express? Not even. Even if you only traveled during 8 daylight hours each day, you would average less than half-a-mile-per-hour (yes I did the math).
 

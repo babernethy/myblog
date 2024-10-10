@@ -9,3 +9,7 @@ https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-d
 
 
 bundle exec jekyll serve
+
+find ./ -type f -regex '.*-[0-9]+x[0-9]+\..*' -exec echo {} \;
+
+find /path/to/folder -type f -regex '.*-[0-9]+x[0-9]+\..*' -exec rm {} \;
