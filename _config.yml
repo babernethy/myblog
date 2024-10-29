@@ -185,6 +185,9 @@ sass:
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
   quiet_deps: true
 
+domain: babernethy.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://babernethy.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /_site/      # place folder name if the site is served in a subfolder
 
 # Outputting
 permalink: /:categories/:title/
